@@ -20,7 +20,8 @@ UCI Heart Disease Dataset
 - Random Forest
 
 ## 📈 Results
-- Accuracy: XX% (update after running)
+- Logistic Regression Accuracy: 78%
+- Random Forest Accuracy: 96.58%
 
 ## 🛠 Tools & Technologies
 - Python
