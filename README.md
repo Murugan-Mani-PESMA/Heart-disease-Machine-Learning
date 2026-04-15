@@ -28,3 +28,8 @@ UCI Heart Disease Dataset
 - Pandas
 - Scikit-learn
 - Google Colab
+
+## 📂 Project Structure
+- Data/: Dataset used for training  
+- notebook/: Implementation and results  
+- README.md: Project documentation  
